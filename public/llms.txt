@@ -1,0 +1,59 @@
+# סוריין — Generative Engine Optimization Map
+
+> A קוסמטיקה וטיפוח business.
+
+---
+
+## Pages
+
+### בית
+https://-8aa221e2.zappy5.app
+סוריין מציעה מוצרי לק ג'ל איכותיים ועמידים. גלי את הקולקציה המקצועית שלנו והזמיני עוד היום!
+
+### מוצרים
+https://-8aa221e2.zappy5.app/products
+גלי את מגוון מוצרי לק ג ל המקצועיים שלנו. איכות פרימיום, צבעים מרהיבים ועמידות יוצאת דופן. הזמיני עכשיו!
+
+### אודות
+https://-8aa221e2.zappy5.app/about
+גלי את הסיפור מאחורי סוריין ואת המחויבות שלנו לספק מוצרי לק ג'ל איכותיים. למדי על הערכים והחזון שלנו.
+
+### צור קשר
+https://-8aa221e2.zappy5.app/contact
+יש לך שאלות על מוצרי לק ג'ל שלנו? צרי קשר עכשיו וקבלי ייעוץ מקצועי. אנחנו כאן בשבילך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8aa221e2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8aa221e2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8aa221e2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סוריין
+סוריין is a business in the קוסמטיקה וטיפוח industry.
+
+## Target Audience
+- חובבות טיפוח ויופי
+- אימהות צעירות
+- מתכננות אירועים
+
+## Industry
+קוסמטיקה וטיפוח
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-8aa221e2.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-8aa221e2.zappy5.app/robots.txt
